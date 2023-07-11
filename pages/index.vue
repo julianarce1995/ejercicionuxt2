@@ -7,6 +7,7 @@
       :tel="person.tel"
       :email="person.email || ''"
     />
+    <a href="/CounterMain">Counter Main</a>
   </div>
 </template>
 
